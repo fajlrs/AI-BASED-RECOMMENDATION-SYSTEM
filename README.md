@@ -148,6 +148,10 @@ Completion: **✅ Working recommendation engine with sample dataset**
 
 
 
+## OUTPUT
+
+
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/8b807002-1fb5-44a2-be41-1de4e4c0105f" />
 
 
 
